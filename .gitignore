@@ -1,0 +1,9 @@
+#directories
+build
+credentials
+node_modules
+test
+
+#files
+bundle*
+time-log.pdf
